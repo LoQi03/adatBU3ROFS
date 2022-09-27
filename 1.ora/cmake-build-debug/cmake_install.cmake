@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Mate/Desktop/Desk/adatb/1.ora
+# Install script for directory: C:/Users/Mate/Desktop/Desk/gitRepos/adatBU3ROFS/1.ora
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Mate/Desktop/Desk/adatb/1.ora/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Mate/Desktop/Desk/gitRepos/adatBU3ROFS/1.ora/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
